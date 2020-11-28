@@ -1,4 +1,4 @@
-# Solución de proyectos ASP NET Core
+# Proyecto ASP NET Core
 
 En este repositorio se tienen proyectos para practicar los 
 conocimientos de ASP NET Core y Entity Framework del curso 
